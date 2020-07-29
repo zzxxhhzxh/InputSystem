@@ -1,0 +1,9 @@
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\bin\Debug\InputSystem.exe.config
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\bin\Debug\InputSystem.exe
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\bin\Debug\InputSystem.pdb
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\obj\Debug\InputSystem.csprojAssemblyReference.cache
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\obj\Debug\InputSystem.FrmMain.resources
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\obj\Debug\InputSystem.Properties.Resources.resources
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\obj\Debug\InputSystem.csproj.GenerateResource.cache
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\obj\Debug\InputSystem.exe
+C:\Users\zzxxh\OneDrive\Coding\InputSystem\InputSystem\obj\Debug\InputSystem.pdb
